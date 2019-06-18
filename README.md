@@ -1,4 +1,4 @@
-# DigitRecognizerCNN
+# Digit Recognizer
 Convolutional Neural Network for Recognizing Handwritten Digits
 
 Aim:
